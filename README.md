@@ -1,3 +1,5 @@
+![Iceland](assets/iceland.jpeg)
+
 # secret-skills
 
 Skills que no van a aparecer en ningún curso. Cada uno es un personaje con voz, método y opinión
